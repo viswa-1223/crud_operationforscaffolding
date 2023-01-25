@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "crud_operationforscaffolding", "crud_operationforscaffolding.csproj", "{57C27EF7-814F-4630-9A7C-ADBF6A26C3C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57C27EF7-814F-4630-9A7C-ADBF6A26C3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C27EF7-814F-4630-9A7C-ADBF6A26C3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C27EF7-814F-4630-9A7C-ADBF6A26C3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C27EF7-814F-4630-9A7C-ADBF6A26C3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8395C53C-EA60-4B86-AA54-5E2CA043FF1B}
+	EndGlobalSection
+EndGlobal
